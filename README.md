@@ -14,7 +14,7 @@
 </br></br>
  
 *ML Algorithms used:*
-- LogisticRegression
+- Logistic Regression
 - Naive Bayes
 </br></br>
 
